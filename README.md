@@ -11,6 +11,6 @@ One afternoon, with some friends we decided to teach our computers to decipher s
 Note that this is a subset of the SIGNS dataset. The complete dataset contains many more signs.
 
 Here are examples for each number, and how an explanation of how we represent the labels. These are the original pictures, before we lowered the image resolutoion to 64 by 64 pixels.
-<img src="TensorflowTutorial/images/hands.png" style="width:800px;height:350px;"><caption><center> <u><font color='purple'> **Figure 1**</u><font color='purple'>: SIGNS dataset <br> <font color='black'> </center>
+<img src="TensorflowTutorial/images/hands.png" style="width:800px;height:350px;"><caption><center> <u><font color='purple'></u><font color='purple'>: SIGNS dataset <br> <font color='black'> </center>
 
 
